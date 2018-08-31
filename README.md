@@ -1,8 +1,8 @@
-# Project Title
+# AWSOfferings
 
-AWSOfferings is an AWS Lambda function front-ended by an AWS API Gateway that 
+AWSOfferings is an AWS Lambda function front-ended by Amazon API Gateway that 
 can retrieve a list of AWS regions that offer all the services listed in a 
-query string paramter named services.  
+query string parameter named services.  
 
 ## Getting Started
 
