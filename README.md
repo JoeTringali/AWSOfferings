@@ -202,7 +202,6 @@ support S3:
 }
 ```
 
-```
 ### A More Complex Example
 
 To retrieve a list of all regions that support 
@@ -215,7 +214,7 @@ https://xcvmkf8oqc.execute-api.us-east-1.amazonaws.com/test/%7Bproxy+%7D?service
 ```
 
 Postman will return the following results indicating all regions that 
-support S3 and AppAStream:
+support S3 and AppStream 2.0:
 
 ```
 {
