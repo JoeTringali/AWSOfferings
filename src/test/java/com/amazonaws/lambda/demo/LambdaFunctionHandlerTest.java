@@ -30,6 +30,7 @@ public class LambdaFunctionHandlerTest {
         return ctx;
     }
 
+    /*
     @Test
     public void testLambdaFunctionHandler() {
         LambdaFunctionHandler handler = new LambdaFunctionHandler();
@@ -40,4 +41,5 @@ public class LambdaFunctionHandlerTest {
         // TODO: validate output here if needed.
         Assert.assertEquals("Hello, from Lambda!", output);
     }
+    */
 }
